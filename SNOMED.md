@@ -20,3 +20,10 @@ GET {url}/ValueSet/$expand?url=http://snomed.info/sct?fhir_vs=refset
 ```HTTP
 GET {url}/ValueSet/$expand?url=http://snomed.info/sct?fhir_vs=refset/734139008
 ```
+
+
+## Expand using ECL
+
+```HTTP
+GET {url}/ValueSet/$expand?url=http://snomed.info/sct?fhir_vs=ecl/<<123979008
+```
