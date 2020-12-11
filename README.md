@@ -6,6 +6,6 @@ These all make use of the CSIRO terminology server at https://r4.ontoserver.csir
 
 Code System - [Examples](ValueSet.md)
 
-Value Set - Examples
+Value Set - [Examples](CodeSystem.md)
 
-Snomed -Examples
+Snomed - [Examples](SNOMED.md)
